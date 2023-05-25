@@ -14,3 +14,4 @@ At brainhive, we deeply believe in the power of open-source. It's not just a dev
 | Project | Description | Status |
 | ------- | ----------- | ------ |
 | [oembed](https://github.com/brainhivenl/oembed)  | oEmbed implementation in Rust | active |
+| [html-to-markdown](https://github.com/brainhivenl/html-to-markdown)  | HTML to CommonMark in Rust | active |
